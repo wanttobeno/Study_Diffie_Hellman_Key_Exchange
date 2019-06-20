@@ -1,4 +1,7 @@
 
+<p align="center">
+ <img src="./snatshot.jpg" />
+</p>
 
 #####  说明
 
@@ -37,6 +40,6 @@ https://zh.wikipedia.org/wiki/%E8%BF%AA%E8%8F%B2-%E8%B5%AB%E7%88%BE%E6%9B%BC%E5%
 
 https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/
 
-![snashot][snatshot.jpg]
+
 
 
